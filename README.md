@@ -8,4 +8,3 @@
 - 📫 How to reach me: andrey.zonter@yandex.ru
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
--->
