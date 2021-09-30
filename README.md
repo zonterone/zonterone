@@ -12,5 +12,5 @@ My name is Andrew. Im junior Frontend developer.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-This is a part of my works. Will be replenished&
+This is a part of my works. Will be replenished.
                        ⏬
