@@ -12,5 +12,7 @@ My name is Andrew. Im junior Frontend developer.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+GitLab profile: https://gitlab.com/zonter
+
 This is a part of my works. Will be replenished.
                        ⏬
