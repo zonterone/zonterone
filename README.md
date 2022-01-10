@@ -1,18 +1,24 @@
-### Hi there 👋
 
-My name is Andrew. Im junior Frontend developer.
+### Hi there 👋, my name is Andrey
+#### Im junior Frontend developer.
 
+Skills: JavaScript · React · Redux · Webpack · Git · HTML · CSS · BEM · Angular(basic) · TypeScript(basic)
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Angular and TypeScript
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: andrey.zonter@yandex.ru
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- 📫 You can reach me by telegram [zonterone](https://t.me/zonterone) or email andrey.zonter@yandex.ru 
 
-GitLab profile: https://gitlab.com/zonter
+Social Links:
 
-This is a part of my works. Will be replenished.
-                       ⏬
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zonterone)
+GitHub
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/zonter)
+GitLab
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/zonterone)
+CodePen
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/zonterone) Habr
+
+My codewars statistics:
+
+[<img src='https://www.codewars.com/users/zonterone/badges/large' alt='codewars'>](https://www.codewars.com/users/zonterone)
