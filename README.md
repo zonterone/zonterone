@@ -8,9 +8,6 @@ Skills: JavaScript · React · Redux · Webpack · Git · HTML · CSS · BEM · 
 
 Social Links:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zonterone)
-GitHub
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/zonter)
 GitLab
 
