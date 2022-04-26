@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Andrey
-#### Im junior Frontend developer.
+#### Im Frontend developer.
 
 Skills: JavaScript · React · Redux · Webpack · Git · HTML · CSS · BEM · Angular(basic) · TypeScript(basic)
 
