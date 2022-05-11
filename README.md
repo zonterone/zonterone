@@ -22,6 +22,3 @@ My site: <a href='https://zonter.one' target='_blank'>zonter.one</a>
 My codewars statistics:
 
 [<img src='https://www.codewars.com/users/zonterone/badges/large' alt='codewars'>](https://www.codewars.com/users/zonterone)
-
-
-👹 Moving the code from hell to heaven and back
