@@ -2,9 +2,9 @@
 
 #### I'm a Frontend developer.
 
-Skills: JavaScript · React · Redux · Webpack · Git · HTML · CSS · BEM · TypeScript(basic) · Angular(basic)
+Skills: JavaScript · React · Redux · Webpack · Git · GraphQL · HTML · CSS · BEM · TypeScript ·
 
-📫 You can reach me by telegram [zonterone](https://t.me/zonterone) or email andrey.zonter@yandex.ru
+📫 You can reach me by telegram [zonterone](https://t.me/zonterone) or email zonterone@gmail.com
 
 <h4>My CV:</h4>
 
