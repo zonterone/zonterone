@@ -2,7 +2,7 @@
 
 #### I'm a Frontend developer.
 
-Skills: JavaScript · React · Redux · Webpack · Git · GraphQL · HTML · CSS · BEM · TypeScript ·
+Skills: · JS · TS · React · Redux · Apollo · GraphQL ·  Webpack · Git · NodeJs · Docker · 
 
 📫 You can reach me by telegram [zonterone](https://t.me/zonterone) or email zonterone@gmail.com
 
