@@ -1,26 +1,47 @@
-### Hi there 👋, my name is Andrey
+<img src='/header.png'>
 
-#### I'm a Frontend developer.
+### Skills:
 
-Skills: · JS · TS · React · Redux · Apollo · GraphQL ·  Webpack · Git · NodeJs · Docker · 
+<code>[![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=595959)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</code>
+·
+<code>[![TypeScript](https://img.shields.io/badge/-TS-090909?style=for-the-badge&logo=TypeScript&logoColor=595959)](https://www.typescriptlang.org)</code>
+·
+<code>[![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=595959)](https://react.dev)</code>
+·
+<code>[![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=595959)](https://redux.js.org)</code>
+·
+<code>[![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL&logoColor=595959)](https://graphql.org)</code>
+·
+<code>[![Apollo](https://img.shields.io/badge/-Apollo-090909?style=for-the-badge&logo=apollographql&logoColor=595959)](https://www.apollographql.com/apollo-client)</code>
 
-📫 You can reach me by telegram [zonterone](https://t.me/zonterone) or email zonterone@gmail.com
+<code>[![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=595959)](https://webpack.js.org)</code>
+·
+<code>[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=595959)](https://git-scm.com)</code>
+·
+<code>[![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node.Js&logoColor=595959)](https://nodejs.org)</code>
+·
+<code>[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=595959)](https://www.docker.com)</code>
 
-<h4>My CV:</h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/zonterone)<a href='https://career.habr.com/zonterone' target='_blank'> Habr </a>
 
-<h4>Links:</h4>
+### My CV:
+<code>[![Telegram](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=habr&logoColor=595959)](https://career.habr.com/zonterone)</code>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/zonter)<a href='https://gitlab.com/zonter' target='_blank'>GitLab</a>
+### Links:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/zonterone)<a href='https://codepen.io/https://codepen.io/zonterone' target='_blank'>CodePen</a>
+<code>[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=595959)](https://t.me/zonterone)</code>
+·
+<code>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=595959)](https://www.linkedin.com/in/zonterone/)</code>
+·
+<code>[![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLAb&logoColor=595959)](https://gitlab.com/zonter)</code>
+·
+<code>[![zonterone](https://img.shields.io/badge/-👹%20Site-090909?style=for-the-badge&logo=Site&logoColor=595959)](https://zonter.one)</code>
+<br/>
+<br/>
+<br/>
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zonterone&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
 
-<h4>My site:</h4>
-<a href='https://zonter.one' target='_blank'>zonter.one</a>
+[<img src='https://www.codewars.com/users/zonterone/badges/small' alt='codewars'>](https://www.codewars.com/users/zonterone)
 
-<h4>My codewars statistics:</h4>
-
-[<img src='https://www.codewars.com/users/zonterone/badges/large' alt='codewars'>](https://www.codewars.com/users/zonterone)
-
-🦆
+[![LeetCode user zonterone](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzonterone&logo=leetcode&logoColor=yellow)](https://leetcode.com/zonterone/)
