@@ -42,6 +42,6 @@
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=zonterone&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
 
-[<img src='https://www.codewars.com/users/zonterone/badges/small' alt='codewars'>](https://www.codewars.com/users/zonterone)
+[![Codewars user zonterone](https://www.codewars.com/users/zonterone/badges/small)](https://www.codewars.com/users/zonterone)
 
 [![LeetCode user zonterone](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fzonterone&logo=leetcode&logoColor=yellow)](https://leetcode.com/zonterone/)
