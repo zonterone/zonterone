@@ -2,21 +2,21 @@
 
 ### Skills:
 
-<code>[![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=595959)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</code>
+<code>[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=595959)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</code>
 ·
-<code>[![TypeScript](https://img.shields.io/badge/-TS-090909?style=for-the-badge&logo=TypeScript&logoColor=595959)](https://www.typescriptlang.org)</code>
+<code>[![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=595959)](https://www.typescriptlang.org)</code>
 ·
 <code>[![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=595959)](https://react.dev)</code>
 ·
-<code>[![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=595959)](https://redux.js.org)</code>
+<code>[![NextJS](https://img.shields.io/badge/-nextjs-090909?style=for-the-badge&logo=next.js&logoColor=595959)](https://nextjs.org/)</code>
+·
+<code>[![Tailwindcss](https://img.shields.io/badge/-tailwindcss-090909?style=for-the-badge&logo=tailwindcss&logoColor=595959)](https://tailwindcss.com/)</code>
+
+<code>[![React Query](https://img.shields.io/badge/-react_query-090909?style=for-the-badge&logo=reactquery&logoColor=595959)](https://tanstack.com/query/v4)</code>
 ·
 <code>[![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=GraphQL&logoColor=595959)](https://graphql.org)</code>
 ·
 <code>[![Apollo](https://img.shields.io/badge/-Apollo-090909?style=for-the-badge&logo=apollographql&logoColor=595959)](https://www.apollographql.com/apollo-client)</code>
-
-<code>[![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=595959)](https://webpack.js.org)</code>
-·
-<code>[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=595959)](https://git-scm.com)</code>
 ·
 <code>[![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node.Js&logoColor=595959)](https://nodejs.org)</code>
 ·
